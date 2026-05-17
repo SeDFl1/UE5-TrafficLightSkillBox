@@ -1,0 +1,33 @@
+# Unreal Engine 5
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+*.sln
+*.xcodeproj
+*.xcworkspace
+*.opendb
+*.pdb
+*.idb
+*.log
+*.tmp
+Thumbs.db
+DS_Store
+
+# Visual Studio / Rider
+.vscode/
+.vs/
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodproj
+*.xcworkspace
+
+# OS
+.DS_Store
+ehthumbs.db
+desktop.ini
